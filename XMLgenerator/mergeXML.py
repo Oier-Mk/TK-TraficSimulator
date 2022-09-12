@@ -44,7 +44,7 @@ def closeXML(customFile):
 
     data = parseString(mydata) # your string
 
-    with open('osm.passenger.trips.xml', 'w') as file:
+    with open('resultados/osm.passenger.trips.xml', 'w') as file:
         data.writexml(file, indent='\n', addindent=' ')
 
 
