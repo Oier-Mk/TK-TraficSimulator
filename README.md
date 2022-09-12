@@ -20,4 +20,5 @@ Proyecto realizado con por Eneko Eguiguren y Oier Mentxaka con la supervisión d
 * mergeXML.py
 * rdmCarGenerator.bat 
     + Necesita el mapa en formato Sumo 
+    - prueba
 * traficoDirigido.py
