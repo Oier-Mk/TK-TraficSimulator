@@ -1,6 +1,6 @@
 # TK-TraficSimulator
 
-Programa basado en py
+Programa basado en Python
 
 En el presente proyecto se realizará una pequeña funcionalidad para correr una demo del software de simulación de tráfico realizado con Eclipse Sumo y Python 3.6 o posterior.
 
