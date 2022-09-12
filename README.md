@@ -1,4 +1,4 @@
-# Tk-TraficSimulator
+# TK-TraficSimulator
 
 Programa basado en py
 
