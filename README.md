@@ -17,7 +17,7 @@ Proyecto realizado con por Eneko Eguiguren y Oier Mentxaka con la supervisión d
   |__ rdm.osm.passenger.trips.xml - Fichero con los datos de trafico aleatorio que consideramos que hay por las vías adyacentes a la que se pretende estudiar compatible con el formato de Sumo <br />
   |__ osm.passengertrips.xml - Fichero resultante con el trafico tanto aleatorio como dirigido compatible con el formato de Sumo <br />
 
-* mergeXML.py - Fichero encargado de juntar los dos tipos de trafico generados en uno solo para la correcta lectura de el por Sumo
+* mergeXML.py - Fichero encargado de juntar los dos tipos de trafico generados en uno solo para la correcta lectura por Sumo
     - Dependencias: <br />
        - Fichero resultados/directed.osm.passenger.trips.xml <br />
        - Fichero resultados/rdm.osm.passenger.trips.xml <br />
