@@ -26,7 +26,7 @@ Proyecto realizado con por Eneko Eguiguren y Oier Mentxaka con la supervisión d
 * rdmCarGenerator.bat - Fichero encargado de generar un fichero con el trafico aleatorio estimado por las carreteras adyacentes <br />
     - Dependencias: <br />
        - Necesita el mapa en formato Sumo <br />
-       - Valores P y E, los cuales por defecto cogen valor 1 y 100 respectivamente, generando un coche nuevo en la via por cada segundo de ejecución <br />
+       - Valores P y E, los cuales por defecto cogen valor 1 y 100 respectivamente, generan un coche nuevo en la via por cada segundo de ejecución <br />
     - Resultados: <br />
        - Fichero resultados/rdm.osm.passenger.trips.xml con el trafico aleatorio generado compatible con Sumo <br />
 * traficoDirigido.py - Fichero encargado de generar el trafico que ha de fluir por la carretera a estudiar compatible con Sumo<br />
